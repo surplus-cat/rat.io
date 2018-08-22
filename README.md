@@ -1,0 +1,2 @@
+# rat.io
+my blog
